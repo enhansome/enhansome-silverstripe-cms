@@ -302,7 +302,7 @@
             "last_commit": "2024-11-06T17:51:02Z",
             "owner": "laravel",
             "repo": "homestead",
-            "stars": 3883
+            "stars": 3879
           }
         },
         {
@@ -324,7 +324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:44:59.712Z",
+    "last_updated": "2026-08-17T04:53:33.865Z",
     "original_repository": "wernerkrauss/awesome-silverstripe-cms",
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",
     "enhanced_repository": "enhansome/enhansome-silverstripe-cms",
