@@ -1,331 +1,356 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fluent",
+              "description": "Multi-language translate module for Silverstripe, without having to manage separate site trees.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10893201,
+                "language": "PHP",
+                "last_commit": "2026-05-18T02:05:02Z",
+                "owner": "tractorcow-farm",
+                "repo": "silverstripe-fluent",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autotranslate",
+              "description": "Creates automatic translations of fields using Google Translate API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183604516,
+                "language": "PHP",
+                "last_commit": "2019-04-30T10:30:20Z",
+                "owner": "bratiask",
+                "repo": "silverstripe-autotranslate",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "I18N (Internationalisation)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fulltext Search",
+              "description": "Full fledged search interface for Solr4 (EOL).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1673985,
+                "language": "PHP",
+                "last_commit": "2026-08-12T21:24:12Z",
+                "owner": "silverstripe",
+                "repo": "silverstripe-fulltextsearch",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Searchable DataObjects",
+              "description": "Fast and simple MySQL based search. Useful for single language sites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19729933,
+                "language": "PHP",
+                "last_commit": "2025-03-31T09:22:57Z",
+                "owner": "g4b0",
+                "repo": "silverstripe-searchable-dataobjects",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silverstripe Searchable",
+              "description": "Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27938261,
+                "language": "PHP",
+                "last_commit": "2025-12-29T17:05:14Z",
+                "owner": "Dean-Forest-Tech",
+                "repo": "silverstripe-searchable",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solr search",
+              "description": "Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the \"Fulltext Search\" module, as well as subsite, fluent and others.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 186968017,
+                "language": "PHP",
+                "last_commit": "2025-02-21T01:50:11Z",
+                "owner": "Firesphere",
+                "repo": "silverstripe-solr-search",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Site Search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Debugbar",
+              "description": "Shows debugging statistics in your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60849433,
+                "language": "PHP",
+                "last_commit": "2025-10-16T07:42:49Z",
+                "owner": "lekoala",
+                "repo": "silverstripe-debugbar",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IdeAnnotator",
+              "description": "Auto-generates class annotations on dev/build.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38925363,
+                "language": "PHP",
+                "last_commit": "2026-04-28T14:09:47Z",
+                "owner": "silverleague",
+                "repo": "silverstripe-ideannotator",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Version Truncator",
+              "description": "Automatically delete old SiteTree page versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8243830,
+                "language": "PHP",
+                "last_commit": "2025-04-12T11:40:02Z",
+                "owner": "axllent",
+                "repo": "silverstripe-version-truncator",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Populate",
+              "description": "Populate your database through YAML files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16161034,
+                "language": "PHP",
+                "last_commit": "2026-05-06T02:20:41Z",
+                "owner": "silverstripe",
+                "repo": "silverstripe-populate",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mock DataObjects",
+              "description": "Allows DataObjects to self-populate intelligently with fake data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8367262,
+                "language": "PHP",
+                "last_commit": "2020-10-04T20:43:13Z",
+                "owner": "unclecheese",
+                "repo": "silverstripe-mock-dataobjects",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserSwitcher",
+              "description": "Adds a small form both in the frontend and backend to quickly login as any user.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12451229,
+                "language": "PHP",
+                "last_commit": "2019-01-10T02:18:16Z",
+                "owner": "sheadawson",
+                "repo": "silverstripe-userswitcher",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Masquerade",
+              "description": "Allows an Administrator to \"login\" as another \"Member\". This can be useful for debugging and remote support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22956957,
+                "language": "PHP",
+                "last_commit": "2026-05-04T14:32:06Z",
+                "owner": "dhensby",
+                "repo": "silverstripe-masquerade",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Helpers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code Editor Field",
+              "description": "Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12694284,
+                "language": "JavaScript",
+                "last_commit": "2026-07-08T08:34:30Z",
+                "owner": "nathancox",
+                "repo": "silverstripe-codeeditorfield",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Markdown Field",
+              "description": "Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33447025,
+                "language": "JavaScript",
+                "last_commit": "2022-10-12T08:45:11Z",
+                "owner": "HelloBetterLTD",
+                "repo": "markdownfield",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fancy Form Fields"
+        }
+      ],
       "title": "Very Useful Modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Fluent",
-          "description": "Multi-language translate module for Silverstripe, without having to manage separate site trees.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-18T02:05:02Z",
-            "owner": "tractorcow-farm",
-            "repo": "silverstripe-fluent",
-            "stars": 90
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SSPak",
+              "description": "Tool for managing bundles of db/assets from Silverstripe environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9559572,
+                "language": "PHP",
+                "last_commit": "2024-06-13T22:20:53Z",
+                "owner": "silverstripe",
+                "repo": "sspak",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSPy",
+              "description": "Python version of SSPak, that can handle assets more than 2GB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184842609,
+                "language": "Python",
+                "last_commit": "2022-10-14T21:58:12Z",
+                "owner": "Firesphere",
+                "repo": "silverstripe-sspy",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Management"
         },
         {
-          "node_type": "item",
-          "title": "Autotranslate",
-          "description": "Creates automatic translations of fields using Google Translate API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-04-30T10:30:20Z",
-            "owner": "bratiask",
-            "repo": "silverstripe-autotranslate",
-            "stars": 4
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Laravel Homestead",
+                  "description": "Prepackaged box for local development.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 18863040,
+                    "language": "Shell",
+                    "last_commit": "2024-11-06T17:51:02Z",
+                    "owner": "laravel",
+                    "repo": "homestead",
+                    "stars": 3878
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zauberfisch Vagrant Boxes",
+                  "description": "Preconfigured Vagrant boxes for SS3 and SS4.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90534307,
+                    "language": "Shell",
+                    "last_commit": "2020-01-24T02:18:49Z",
+                    "owner": "Zauberfisch",
+                    "repo": "vagrant-boxes",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": "There is no official box like Laravel has its homestead box. However, there are a few good boxes out there for Vagrant you could use:",
+              "node_type": "group",
+              "title": "Vagrant"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Virtualisation"
         }
       ],
-      "title": "I18N (Internationalisation)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fulltext Search",
-          "description": "Full fledged search interface for Solr4 (EOL).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T21:24:12Z",
-            "owner": "silverstripe",
-            "repo": "silverstripe-fulltextsearch",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Searchable DataObjects",
-          "description": "Fast and simple MySQL based search. Useful for single language sites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-03-31T09:22:57Z",
-            "owner": "g4b0",
-            "repo": "silverstripe-searchable-dataobjects",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silverstripe Searchable",
-          "description": "Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-12-29T17:05:14Z",
-            "owner": "Dean-Forest-Tech",
-            "repo": "silverstripe-searchable",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solr search",
-          "description": "Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the \"Fulltext Search\" module, as well as subsite, fluent and others.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2025-02-21T01:50:11Z",
-            "owner": "Firesphere",
-            "repo": "silverstripe-solr-search",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Site Search"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Debugbar",
-          "description": "Shows debugging statistics in your browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-10-16T07:42:49Z",
-            "owner": "lekoala",
-            "repo": "silverstripe-debugbar",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IdeAnnotator",
-          "description": "Auto-generates class annotations on dev/build.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-28T14:09:47Z",
-            "owner": "silverleague",
-            "repo": "silverstripe-ideannotator",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Version Truncator",
-          "description": "Automatically delete old SiteTree page versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-04-12T11:40:02Z",
-            "owner": "axllent",
-            "repo": "silverstripe-version-truncator",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Populate",
-          "description": "Populate your database through YAML files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-06T02:20:41Z",
-            "owner": "silverstripe",
-            "repo": "silverstripe-populate",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mock DataObjects",
-          "description": "Allows DataObjects to self-populate intelligently with fake data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-10-04T20:43:13Z",
-            "owner": "unclecheese",
-            "repo": "silverstripe-mock-dataobjects",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UserSwitcher",
-          "description": "Adds a small form both in the frontend and backend to quickly login as any user.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-01-10T02:18:16Z",
-            "owner": "sheadawson",
-            "repo": "silverstripe-userswitcher",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Masquerade",
-          "description": "Allows an Administrator to \"login\" as another \"Member\". This can be useful for debugging and remote support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-04T14:32:06Z",
-            "owner": "dhensby",
-            "repo": "silverstripe-masquerade",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Development Helpers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Code Editor Field",
-          "description": "Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-08T08:34:30Z",
-            "owner": "nathancox",
-            "repo": "silverstripe-codeeditorfield",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Markdown Field",
-          "description": "Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-12T08:45:11Z",
-            "owner": "HelloBetterLTD",
-            "repo": "markdownfield",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Fancy Form Fields"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SSPak",
-          "description": "Tool for managing bundles of db/assets from Silverstripe environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-13T22:20:53Z",
-            "owner": "silverstripe",
-            "repo": "sspak",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SSPy",
-          "description": "Python version of SSPak, that can handle assets more than 2GB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-14T21:58:12Z",
-            "owner": "Firesphere",
-            "repo": "silverstripe-sspy",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Management"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Virtualisation"
-    },
-    {
-      "description": "There is no official box like Laravel has its homestead box. However, there are a few good boxes out there for Vagrant you could use:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Laravel Homestead",
-          "description": "Prepackaged box for local development.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2024-11-06T17:51:02Z",
-            "owner": "laravel",
-            "repo": "homestead",
-            "stars": 3878
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zauberfisch Vagrant Boxes",
-          "description": "Preconfigured Vagrant boxes for SS3 and SS4.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-01-24T02:18:49Z",
-            "owner": "Zauberfisch",
-            "repo": "vagrant-boxes",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Vagrant"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:46:39.408Z",
+    "last_updated": "2026-08-19T12:53:37.792Z",
     "original_repository": "wernerkrauss/awesome-silverstripe-cms",
+    "original_repository_id": 107135139,
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",
     "enhanced_repository": "enhansome/enhansome-silverstripe-cms",
     "enhanced_repository_description": null,
