@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-18T02:05:02Z",
                 "owner": "tractorcow-farm",
                 "repo": "silverstripe-fluent",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -315,7 +315,7 @@
                     "last_commit": "2024-11-06T17:51:02Z",
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3878
+                    "stars": 3877
                   }
                 },
                 {
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:49:18.664Z",
+    "last_updated": "2026-08-22T04:42:53.345Z",
     "original_repository": "wernerkrauss/awesome-silverstripe-cms",
     "original_repository_id": 107135139,
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",
