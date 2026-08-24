@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Multiuser editing alert",
+              "description": "Alerts users in the Silverstripe CMS when multiple people are editing the same page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61512588,
+                "language": "CSS",
+                "last_commit": "2025-12-05T10:57:22Z",
+                "owner": "silverstripe",
+                "repo": "silverstripe-multiuser-editing-alert",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Modules"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fluent",
               "description": "Multi-language translate module for Silverstripe, without having to manage separate site trees.",
               "children": [],
@@ -302,6 +324,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "PHPStorm / Webstorm Live Templates",
+              "description": "Shortcuts for adding various Silverstripe specific code snippets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297683005,
+                "language": null,
+                "last_commit": "2020-10-09T18:04:07Z",
+                "owner": "northcreation-agency",
+                "repo": "silverstripe-php-web-storm-live-templates",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE Plugins"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -348,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:56:02.775Z",
+    "last_updated": "2026-08-24T14:47:57.714Z",
     "original_repository": "wernerkrauss/awesome-silverstripe-cms",
     "original_repository_id": 107135139,
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",

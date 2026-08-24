@@ -134,9 +134,9 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ### IDE Plugins
 
+* [PHPStorm / Webstorm Live Templates](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) ⭐ 4 | 🐛 1 | 📅 2020-10-09 - Shortcuts for adding various Silverstripe specific code snippets.
 * [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 * [Jetbrains / PHPStorm Silverstripe Template Language Support](https://plugins.jetbrains.com/plugin/17014-silverstripe-template-language-support) - Syntax highlighting for Silverstripe template files.
-* [PHPStorm / Webstorm Live Templates](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) ⭐ 4 | 🐛 1 | 📅 2020-10-09 - Shortcuts for adding various Silverstripe specific code snippets.
 
 ### Virtualisation
 
