@@ -359,7 +359,7 @@
                     "last_commit": "2024-11-06T17:51:02Z",
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3877
+                    "stars": 3878
                   }
                 },
                 {
@@ -392,9 +392,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:50:31.374Z",
-    "original_repository": "wernerkrauss/awesome-silverstripe-cms",
-    "original_repository_id": 107135139,
+    "last_updated": "2026-08-27T12:05:39.751Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 107135139,
+      "language": "Shell",
+      "last_commit": "2024-02-22T13:53:02Z",
+      "owner": "wernerkrauss",
+      "repo": "awesome-silverstripe-cms",
+      "stars": 57
+    },
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",
     "enhanced_repository": "enhansome/enhansome-silverstripe-cms",
     "enhanced_repository_description": null,
