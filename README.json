@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 61512588,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2025-12-05T10:57:22Z",
+                "open_issues": 1,
                 "owner": "silverstripe",
                 "repo": "silverstripe-multiuser-editing-alert",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -35,12 +40,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-language translate module for Silverstripe, without having to manage separate site trees.",
+                "homepage": null,
                 "id": 10893201,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T22:06:09Z",
+                "open_issues": 140,
                 "owner": "tractorcow-farm",
                 "repo": "silverstripe-fluent",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -51,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 183604516,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2019-04-30T10:30:20Z",
+                "open_issues": 3,
                 "owner": "bratiask",
                 "repo": "silverstripe-autotranslate",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -74,12 +91,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds external full text search engine support to Silverstripe ",
+                "homepage": null,
                 "id": 1673985,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T21:24:12Z",
+                "open_issues": 11,
                 "owner": "silverstripe",
                 "repo": "silverstripe-fulltextsearch",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -90,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Searchable DataObjects is a module that permit to include DataObjects into frontend search",
+                "homepage": null,
                 "id": 19729933,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2025-03-31T09:22:57Z",
+                "open_issues": 5,
                 "owner": "g4b0",
                 "repo": "silverstripe-searchable-dataobjects",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -106,12 +135,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds to default SilverStripe search with configurable FullTextSearch, custom results controller and allowing adding custom data objects and custom fields for searching via config",
+                "homepage": null,
                 "id": 27938261,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-29T17:05:14Z",
+                "open_issues": 3,
                 "owner": "Dean-Forest-Tech",
                 "repo": "silverstripe-searchable",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "fulltext-search",
+                  "fulltextsearch",
+                  "orm",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -122,12 +161,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Advanced searching with SilverStripe, Solarium and Solr",
+                "homepage": "https://firesphere.github.io/solr-docs",
                 "id": 186968017,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-21T01:50:11Z",
+                "open_issues": 1,
                 "owner": "Firesphere",
                 "repo": "silverstripe-solr-search",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "configuration",
+                  "cow",
+                  "fulltextsearch",
+                  "hacktoberfest",
+                  "php",
+                  "php7",
+                  "search",
+                  "sheepy",
+                  "silverstripe",
+                  "silverstripe-4",
+                  "silverstripe-fulltextsearch",
+                  "silverstripe-module",
+                  "silverstripe-search",
+                  "silverstripe-solr-search",
+                  "solarium",
+                  "solr",
+                  "solr-client",
+                  "solrcloud"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -145,12 +208,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SilverStripe DebugBar module",
+                "homepage": null,
                 "id": 60849433,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-10-16T07:42:49Z",
+                "open_issues": 1,
                 "owner": "lekoala",
                 "repo": "silverstripe-debugbar",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "debugbar",
+                  "module",
+                  "silverstripe",
+                  "silverstripe-4",
+                  "silverstripe-5",
+                  "silverstripe-module"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -161,12 +236,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate docblocks for DataObjects, Page, PageControllers and (Data)Extensions",
+                "homepage": null,
                 "id": 38925363,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-28T14:09:47Z",
+                "open_issues": 4,
                 "owner": "silverleague",
                 "repo": "silverstripe-ideannotator",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "code-generator",
+                  "code-quality",
+                  "dataobject",
+                  "docblock",
+                  "hacktoberfest",
+                  "helper",
+                  "improvement",
+                  "packagist",
+                  "phpstorm",
+                  "rick-and-morty",
+                  "silverleague-modules",
+                  "silverstripe",
+                  "silverstripe-4",
+                  "silverstripe-ideannotator",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -177,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically delete old versioned records from Silverstripe",
+                "homepage": null,
                 "id": 8243830,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-12T11:40:02Z",
+                "open_issues": 2,
                 "owner": "axllent",
                 "repo": "silverstripe-version-truncator",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -193,12 +294,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Populate your database through YAML files",
+                "homepage": null,
                 "id": 16161034,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-06T02:20:41Z",
+                "open_issues": 3,
                 "owner": "silverstripe",
                 "repo": "silverstripe-populate",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "silverstripe",
+                  "silverstripe-module"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -209,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows DataObjects to self-populate intelligently with fake data",
+                "homepage": null,
                 "id": 8367262,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-04T20:43:13Z",
+                "open_issues": 9,
                 "owner": "unclecheese",
                 "repo": "silverstripe-mock-dataobjects",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -225,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows Admins to quickly login as any user in the system during development/testing",
+                "homepage": null,
                 "id": 12451229,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-01-10T02:18:16Z",
+                "open_issues": 0,
                 "owner": "sheadawson",
                 "repo": "silverstripe-userswitcher",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -241,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SilverStripe module to allow users to \"masquerade\" as other users",
+                "homepage": null,
                 "id": 22956957,
                 "language": "PHP",
+                "license": "ISC",
                 "last_commit": "2026-05-04T14:32:06Z",
+                "open_issues": 1,
                 "owner": "dhensby",
                 "repo": "silverstripe-masquerade",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -264,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A field for editing code in the SilverStripe CMS using Ace Editor (http://ace.c9.io/)",
+                "homepage": null,
                 "id": 12694284,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-08T08:34:30Z",
+                "open_issues": 6,
                 "owner": "nathancox",
                 "repo": "silverstripe-codeeditorfield",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -280,12 +409,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown field for SilverStripe",
+                "homepage": null,
                 "id": 33447025,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-12T08:45:11Z",
+                "open_issues": 5,
                 "owner": "HelloBetterLTD",
                 "repo": "markdownfield",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "javascript",
+                  "markdown",
+                  "markdown-editor",
+                  "php",
+                  "silverstripe-4",
+                  "silverstripe-module"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -309,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for managing bundles of db/assets from Silverstripe environments",
+                "homepage": "http://silverstripe.github.io/sspak/",
                 "id": 9559572,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-13T22:20:53Z",
+                "open_issues": 27,
                 "owner": "silverstripe",
                 "repo": "sspak",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             },
@@ -325,12 +471,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python based SSPAK export with higher reliability and cross-platform compatibility",
+                "homepage": null,
                 "id": 184842609,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-10-14T21:58:12Z",
+                "open_issues": 7,
                 "owner": "Firesphere",
                 "repo": "silverstripe-sspy",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "database",
+                  "dump",
+                  "export",
+                  "hacktoberfest",
+                  "mariadb",
+                  "mysql",
+                  "python",
+                  "python3",
+                  "rickandmorty",
+                  "silverstripe",
+                  "sspak",
+                  "transfer-data"
+                ]
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -348,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Speed up development with SilverStripe live templates for PhpStorm and WebStorm",
+                "homepage": null,
                 "id": 297683005,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-09T18:04:07Z",
+                "open_issues": 1,
                 "owner": "northcreation-agency",
                 "repo": "silverstripe-php-web-storm-live-templates",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
             }
@@ -373,12 +542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 18863040,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2024-11-06T17:51:02Z",
+                    "open_issues": 20,
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3878
+                    "stars": 3878,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:30.147Z"
                 },
@@ -389,12 +563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Setup scripts and docs for my vagrant boxes, primarily aimed at Web/SilverStripe developement",
+                    "homepage": null,
                     "id": 90534307,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2020-01-24T02:18:49Z",
+                    "open_issues": 0,
                     "owner": "Zauberfisch",
                     "repo": "vagrant-boxes",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:30.147Z"
                 }
@@ -413,15 +592,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:32:30.147Z",
+    "last_updated": "2026-08-29T05:04:12.870Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful resources for Silverstripe CMS and framework",
+      "homepage": null,
       "id": 107135139,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2024-02-22T13:53:02Z",
+      "open_issues": 2,
       "owner": "wernerkrauss",
       "repo": "awesome-silverstripe-cms",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "php",
+        "silverstripe"
+      ]
     },
     "original_repository_sha": "8f378e0d9585d40573bc1d7ef65dcabadba265f1",
     "enhanced_repository": "enhansome/enhansome-silverstripe-cms",
