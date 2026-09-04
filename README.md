@@ -99,7 +99,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ### I18N (Internationalisation)
 
-* [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) ⭐ 91 | 🐛 140 | 🌐 PHP | 📅 2026-08-25 - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+* [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) ⭐ 91 | 🐛 139 | 🌐 PHP | 📅 2026-09-04 - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 * [Autotranslate](https://github.com/bratiask/silverstripe-autotranslate) ⭐ 4 | 🐛 3 | 🌐 PHP | 📅 2019-04-30 -  Creates automatic translations of fields using Google Translate API.
 
 ### Site Search
@@ -159,4 +159,4 @@ There is no official box like Laravel has its homestead box. However, there are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
