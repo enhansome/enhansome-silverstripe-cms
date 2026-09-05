@@ -551,7 +551,7 @@
                     "open_issues": 20,
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3879,
+                    "stars": 3878,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:30.147Z"
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:47:27.024Z",
+    "last_updated": "2026-09-05T08:17:52.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
