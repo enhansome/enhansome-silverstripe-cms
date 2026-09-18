@@ -104,7 +104,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ### Site Search
 
-* [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) ⭐ 43 | 🐛 11 | 🌐 PHP | 📅 2026-08-12 - Full fledged search interface for Solr4 (EOL).
+* [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) ⭐ 43 | 🐛 12 | 🌐 PHP | 📅 2026-09-17 - Full fledged search interface for Solr4 (EOL).
 * [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) ⭐ 25 | 🐛 5 | 🌐 PHP | 📅 2025-03-31 - Fast and simple MySQL based search. Useful for single language sites.
 * [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) ⭐ 13 | 🐛 3 | 🌐 PHP | 📅 2025-12-29 - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 * [Solr search](https://github.com/firesphere/silverstripe-solr-search) ⚠️ Archived - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
@@ -159,4 +159,4 @@ There is no official box like Laravel has its homestead box. However, there are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

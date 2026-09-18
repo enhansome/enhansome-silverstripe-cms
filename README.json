@@ -96,8 +96,8 @@
                 "id": 1673985,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-12T21:24:12Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-17T21:59:52Z",
+                "open_issues": 12,
                 "owner": "silverstripe",
                 "repo": "silverstripe-fulltextsearch",
                 "stars": 43,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:23:03.051Z",
+    "last_updated": "2026-09-18T08:57:24.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
