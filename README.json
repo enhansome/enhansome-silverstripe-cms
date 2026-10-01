@@ -348,7 +348,7 @@
                 "open_issues": 0,
                 "owner": "sheadawson",
                 "repo": "silverstripe-userswitcher",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:30.147Z"
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:25:43.879Z",
+    "last_updated": "2026-10-01T10:52:51.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
