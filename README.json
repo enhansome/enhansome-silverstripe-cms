@@ -213,7 +213,7 @@
                 "id": 60849433,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2025-10-16T07:42:49Z",
+                "last_commit": "2026-10-01T21:01:05Z",
                 "open_issues": 1,
                 "owner": "lekoala",
                 "repo": "silverstripe-debugbar",
@@ -551,7 +551,7 @@
                     "open_issues": 20,
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3874,
+                    "stars": 3869,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:30.147Z"
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:52:51.065Z",
+    "last_updated": "2026-10-02T10:26:28.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
