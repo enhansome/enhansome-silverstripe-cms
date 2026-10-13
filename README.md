@@ -113,7 +113,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 ### Development Helpers
 
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) ⭐ 54 | 🐛 1 | 🌐 PHP | 📅 2026-10-12 -  Shows debugging statistics in your browser.
-* [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) ⭐ 47 | 🐛 4 | 🌐 PHP | 📅 2026-04-28 -  Auto-generates class annotations on dev/build.
+* [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) ⭐ 47 | 🐛 5 | 🌐 PHP | 📅 2026-04-28 -  Auto-generates class annotations on dev/build.
 * [Version Truncator](https://github.com/axllent/silverstripe-version-truncator) ⭐ 35 | 🐛 2 | 🌐 PHP | 📅 2025-04-12 - Automatically delete old SiteTree page versions.
 * [Populate](https://github.com/dnadesign/silverstripe-populate) ⭐ 25 | 🐛 3 | 🌐 PHP | 📅 2026-05-06 -  Populate your database through YAML files.
 * [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) ⭐ 18 | 🐛 9 | 🌐 PHP | 📅 2020-10-04 -  Allows DataObjects to self-populate intelligently with fake data.
@@ -159,4 +159,4 @@ There is no official box like Laravel has its homestead box. However, there are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
