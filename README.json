@@ -242,7 +242,7 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-04-28T14:09:47Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "silverleague",
                 "repo": "silverstripe-ideannotator",
                 "stars": 47,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:59:26.322Z",
+    "last_updated": "2026-11-07T10:59:04.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
