@@ -45,8 +45,8 @@
                 "id": 10893201,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T22:35:51Z",
-                "open_issues": 143,
+                "last_commit": "2026-11-13T02:05:27Z",
+                "open_issues": 142,
                 "owner": "tractorcow-farm",
                 "repo": "silverstripe-fluent",
                 "stars": 91,
@@ -551,7 +551,7 @@
                     "open_issues": 20,
                     "owner": "laravel",
                     "repo": "homestead",
-                    "stars": 3864,
+                    "stars": 3863,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:30.147Z"
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:32:17.282Z",
+    "last_updated": "2026-11-13T12:03:54.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
