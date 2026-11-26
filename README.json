@@ -46,7 +46,7 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-23T23:23:19Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "tractorcow-farm",
                 "repo": "silverstripe-fluent",
                 "stars": 91,
@@ -592,7 +592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:10:02.990Z",
+    "last_updated": "2026-11-26T13:46:27.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for Silverstripe CMS and framework",
